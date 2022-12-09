@@ -1,2 +1,2 @@
 # type-challenges
-type-challenges  answers
+https://github.com/type-challenges/type-challenges
